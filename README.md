@@ -1,5 +1,5 @@
 <p align="center"> 
-<h1>PembukaScribd</h1> 
+# PembukaScribd
 <p>
 <p align="center">Pembuka Scribd Yang Terkunci</p>
 <br><br>
